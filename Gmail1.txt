@@ -1,0 +1,1 @@
+AWSome Day Online Conference is now available on-demand 21-24 May 2020. Join us now and learn with a step-by-step introduction to the core AWS services for compute, storage, database, networking and security. Learn tips and best practices from AWS technical experts as they explain key features and use cases, and walk through the technical demos.
